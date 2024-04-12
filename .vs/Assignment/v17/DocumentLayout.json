@@ -1,0 +1,759 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive - asia pacific university\\desktop\\projects\\ioop group assignment final code compilation\\assignment\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainerupdateinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainerupdateinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_update_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_update_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_update_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_update_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_feedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_feedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\trainer_feedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\trainer_feedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\studentpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\studentpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\student_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\student_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturerenroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturerenroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\lecturer_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\lecturer_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\classadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\classadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\admin_registertrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\admin_registertrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\assignment\\admin_registertrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F6DE952-2269-4A73-B330-BFBB73634119}|Assignment\\Assignment.csproj|solutionrelative:assignment\\admin_registertrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainerUpdateInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\TrainerUpdateInformation.cs",
+              "RelativeDocumentMoniker": "Assignment\\TrainerUpdateInformation.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\TrainerUpdateInformation.cs",
+              "RelativeToolTip": "Assignment\\TrainerUpdateInformation.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwCAAAADhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:36:40.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainerFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\TrainerFeedback.cs",
+              "RelativeDocumentMoniker": "Assignment\\TrainerFeedback.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\TrainerFeedback.cs",
+              "RelativeToolTip": "Assignment\\TrainerFeedback.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwB0AAADhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:36:30.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trainer_Update_Information.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Update_Information.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_Update_Information.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Update_Information.cs",
+              "RelativeToolTip": "Assignment\\Trainer_Update_Information.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAUwGoAAADqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:35:58.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trainer_Update_Information.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Update_Information.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_Update_Information.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Update_Information.cs [Design]",
+              "RelativeToolTip": "Assignment\\Trainer_Update_Information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:35:52.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trainer_StudentList.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_StudentList.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_StudentList.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_StudentList.cs",
+              "RelativeToolTip": "Assignment\\Trainer_StudentList.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAjwGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:35:07.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\users.cs",
+              "RelativeDocumentMoniker": "Assignment\\users.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\users.cs",
+              "RelativeToolTip": "Assignment\\users.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwCgAAADXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:03:50.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trainer_StudentList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_StudentList.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_StudentList.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_StudentList.cs [Design]",
+              "RelativeToolTip": "Assignment\\Trainer_StudentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:35:05.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trainer_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Profile.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_Profile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Profile.cs",
+              "RelativeToolTip": "Assignment\\Trainer_Profile.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAD4vz8AAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:34:22.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trainer_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Profile.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_Profile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Profile.cs [Design]",
+              "RelativeToolTip": "Assignment\\Trainer_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:34:21.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trainer_Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Homepage.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_Homepage.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Homepage.cs",
+              "RelativeToolTip": "Assignment\\Trainer_Homepage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:34:18.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trainer_Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Homepage.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_Homepage.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Homepage.cs [Design]",
+              "RelativeToolTip": "Assignment\\Trainer_Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:34:18.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Trainer_Feedbacks.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Feedbacks.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_Feedbacks.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Feedbacks.cs",
+              "RelativeToolTip": "Assignment\\Trainer_Feedbacks.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAADwv0YAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:34:10.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trainer_Feedbacks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Feedbacks.cs",
+              "RelativeDocumentMoniker": "Assignment\\Trainer_Feedbacks.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Trainer_Feedbacks.cs [Design]",
+              "RelativeToolTip": "Assignment\\Trainer_Feedbacks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:34:08.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\StudentRequest.cs",
+              "RelativeDocumentMoniker": "Assignment\\StudentRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\StudentRequest.cs",
+              "RelativeToolTip": "Assignment\\StudentRequest.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAIwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:33:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "Assignment\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\StudentProfile.cs",
+              "RelativeToolTip": "Assignment\\StudentProfile.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwA0AAADiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:33:33.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\StudentPayment.cs",
+              "RelativeDocumentMoniker": "Assignment\\StudentPayment.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\StudentPayment.cs",
+              "RelativeToolTip": "Assignment\\StudentPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAADiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:33:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student_Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Schedule.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Schedule.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Schedule.cs",
+              "RelativeToolTip": "Assignment\\Student_Schedule.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAADwvxMAAADmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:33:15.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student_Schedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Schedule.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Schedule.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Schedule.cs [Design]",
+              "RelativeToolTip": "Assignment\\Student_Schedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:33:14.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Student_Request.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Request.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Request.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Request.cs",
+              "RelativeToolTip": "Assignment\\Student_Request.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAswBcAAADmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:33:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student_Request.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Request.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Request.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Request.cs [Design]",
+              "RelativeToolTip": "Assignment\\Student_Request.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:32:59.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Profile.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Profile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Profile.cs",
+              "RelativeToolTip": "Assignment\\Student_Profile.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAawBcAAADmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:32:17.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Student_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Profile.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Profile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Profile.cs [Design]",
+              "RelativeToolTip": "Assignment\\Student_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:32:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student_Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Payment.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Payment.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Payment.cs",
+              "RelativeToolTip": "Assignment\\Student_Payment.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAvwGQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:32:04.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Student_Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Payment.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Payment.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Payment.cs [Design]",
+              "RelativeToolTip": "Assignment\\Student_Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:32:01.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Student_Home.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Home.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Home.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Home.cs",
+              "RelativeToolTip": "Assignment\\Student_Home.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:31:58.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Student_Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Home.cs",
+              "RelativeDocumentMoniker": "Assignment\\Student_Home.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Student_Home.cs [Design]",
+              "RelativeToolTip": "Assignment\\Student_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:31:56.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:31:53.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login page.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Login page.cs",
+              "RelativeDocumentMoniker": "Assignment\\Login page.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Login page.cs",
+              "RelativeToolTip": "Assignment\\Login page.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:31:45.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Login page.cs",
+              "RelativeDocumentMoniker": "Assignment\\Login page.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Login page.cs [Design]",
+              "RelativeToolTip": "Assignment\\Login page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:31:44.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LecturerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\LecturerRequest.cs",
+              "RelativeDocumentMoniker": "Assignment\\LecturerRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\LecturerRequest.cs",
+              "RelativeToolTip": "Assignment\\LecturerRequest.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAkwA0AAADiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:31:32.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LecturerEnroll.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\LecturerEnroll.cs",
+              "RelativeDocumentMoniker": "Assignment\\LecturerEnroll.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\LecturerEnroll.cs",
+              "RelativeToolTip": "Assignment\\LecturerEnroll.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAIwGcAAADiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:31:04.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LecturerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\LecturerDashboard.cs",
+              "RelativeDocumentMoniker": "Assignment\\LecturerDashboard.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\LecturerDashboard.cs",
+              "RelativeToolTip": "Assignment\\LecturerDashboard.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:30:59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Lecturer_Request.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Request.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_Request.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Request.cs",
+              "RelativeToolTip": "Assignment\\Lecturer_Request.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAawB0AAADhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:30:17.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Lecturer_Request.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Request.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_Request.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Request.cs [Design]",
+              "RelativeToolTip": "Assignment\\Lecturer_Request.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:30:07.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Lecturer_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Profile.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_Profile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Profile.cs",
+              "RelativeToolTip": "Assignment\\Lecturer_Profile.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAnwEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:29:45.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Lecturer_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Profile.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_Profile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Profile.cs [Design]",
+              "RelativeToolTip": "Assignment\\Lecturer_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:29:44.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Lecturer_Home.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Home.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_Home.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Home.cs",
+              "RelativeToolTip": "Assignment\\Lecturer_Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:29:04.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Lecturer_Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Home.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_Home.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Home.cs [Design]",
+              "RelativeToolTip": "Assignment\\Lecturer_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:29:03.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Lecturer_Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Enrollment.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_Enrollment.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Enrollment.cs",
+              "RelativeToolTip": "Assignment\\Lecturer_Enrollment.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAlwB8AAADhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:28:48.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Lecturer_Enrollment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Enrollment.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_Enrollment.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_Enrollment.cs [Design]",
+              "RelativeToolTip": "Assignment\\Lecturer_Enrollment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:28:47.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Admin_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Admin_Profile.cs",
+              "RelativeDocumentMoniker": "Assignment\\Admin_Profile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Admin_Profile.cs [Design]",
+              "RelativeToolTip": "Assignment\\Admin_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:26:02.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Admin_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Admin_Profile.cs",
+              "RelativeDocumentMoniker": "Assignment\\Admin_Profile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Admin_Profile.cs",
+              "RelativeToolTip": "Assignment\\Admin_Profile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:26:22.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Lecturer_AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_AddStudent.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_AddStudent.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_AddStudent.cs",
+              "RelativeToolTip": "Assignment\\Lecturer_AddStudent.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:28:39.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Lecturer_AddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_AddStudent.cs",
+              "RelativeDocumentMoniker": "Assignment\\Lecturer_AddStudent.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Lecturer_AddStudent.cs [Design]",
+              "RelativeToolTip": "Assignment\\Lecturer_AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:28:36.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "classAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\classAdmin.cs",
+              "RelativeDocumentMoniker": "Assignment\\classAdmin.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\classAdmin.cs",
+              "RelativeToolTip": "Assignment\\classAdmin.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA4wAwAAADiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:28:15.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Admin_RegisterTrainer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Admin_RegisterTrainer.cs",
+              "RelativeDocumentMoniker": "Assignment\\Admin_RegisterTrainer.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Admin_RegisterTrainer.cs",
+              "RelativeToolTip": "Assignment\\Admin_RegisterTrainer.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAABIAAADiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:27:55.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Admin_RegisterTrainer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Admin_RegisterTrainer.cs",
+              "RelativeDocumentMoniker": "Assignment\\Admin_RegisterTrainer.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive - Asia Pacific University\\Desktop\\Projects\\IOOP Group Assignment Final Code Compilation\\Assignment\\Admin_RegisterTrainer.cs [Design]",
+              "RelativeToolTip": "Assignment\\Admin_RegisterTrainer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:27:53.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
